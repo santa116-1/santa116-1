@@ -8,7 +8,7 @@
 </p>
 <br>
 <p align="center">
-    <a href="https://github.com/santa116-1"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santa116&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    <a href="https://github.com/santa116-1"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santa116-1&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
 
 <h1 align="center">
