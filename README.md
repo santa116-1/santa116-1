@@ -8,6 +8,6 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    ⭐ Dynamic and vibrant like-minded developers. ⭐
+    ⭐Hello there! Let's connect⭐
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
